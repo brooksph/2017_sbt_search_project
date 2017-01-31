@@ -1,0 +1,6 @@
+setA1.interleaved.cat.fq.gz 
+setA2.interleaved.cat.fq.gz 
+setA3.interleaved.cat.fq.gz
+setB1.interleaved.cat.fq.gz
+setB2.interleaved.cat.fq.gz 
+setB3.interleaved.cat.fq.gz

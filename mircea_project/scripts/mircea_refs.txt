@@ -1,0 +1,192 @@
+#### Ignicoccus hospitalis 
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/017/945/GCF_000017945.1_ASM1794v1/GCF_000017945.1_ASM1794v1_genomic.fna.gz
+
+#### Pyrobaculum aerophilum IM2
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/007/225/GCF_000007225.1_ASM722v1/GCF_000007225.1_ASM722v1_genomic.fna.gz
+
+#### Pyrobaculum arsenaticum 
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/016/385/GCF_000016385.1_ASM1638v1/GCF_000016385.1_ASM1638v1_genomic.fna.gz
+
+#### Pyrobaculum calidifontis 
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/015/805/GCF_000015805.1_ASM1580v1/GCF_000015805.1_ASM1580v1_genomic.fna.gz
+
+#### Sulfolobus tokodaii str. 7 DNA	
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/011/205/GCF_000011205.1_ASM1120v1/GCF_000011205.1_ASM1120v1_genomic.fna.gz
+
+#### Pyrococcus furiosus 
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/007/305/GCF_000007305.1_ASM730v1/GCF_000007305.1_ASM730v1_genomic.fna.gz
+
+#### Pyrococcus horikoshii 
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/011/105/GCF_000011105.1_ASM1110v1/GCF_000011105.1_ASM1110v1_genomic.fna.gz
+
+#### Aciduliprofundum boonei 
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/025/665/GCF_000025665.1_ASM2566v1/GCF_000025665.1_ASM2566v1_genomic.fna.gz
+
+#### Archaeoglobus fulgidus 
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/508/745/GCA_001508745.1_ASM150874v1/GCA_001508745.1_ASM150874v1_genomic.fna.gz
+
+#### Haloferax volcanii
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/337/315/GCF_000337315.1_ASM33731v1/GCF_000337315.1_ASM33731v1_genomic.fna.gz
+
+#### Methanopyrus kandleri 
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/007/185/GCF_000007185.1_ASM718v1/GCF_000007185.1_ASM718v1_genomic.fna.gz
+
+#### Methanosarcina acetivorans C2A
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/007/345/GCF_000007345.1_ASM734v1/GCF_000007345.1_ASM734v1_genomic.fna.gz
+
+#### Methanocaldococcus jannaschii
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/091/665/GCF_000091665.1_ASM9166v1/GCF_000091665.1_ASM9166v1_genomic.fna.gz
+
+#### Methanococcus maripaludis C5
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/016/125/GCF_000016125.1_ASM1612v1/GCF_000016125.1_ASM1612v1_genomic.fna.gz
+
+#### Methanococcus maripaludis S2
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/011/585/GCF_000011585.1_ASM1158v1/GCF_000011585.1_ASM1158v1_genomic.fna.gz
+
+#### Nanoarchaeum equitans 
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/008/085/GCF_000008085.1_ASM808v1/GCF_000008085.1_ASM808v1_genomic.fna.gz
+
+#### Hydrogenobaculum sp. Y04AAS1
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/020/785/GCF_000020785.1_ASM2078v1/GCF_000020785.1_ASM2078v1_genomic.fna.gz
+
+#### Persephonella marina EX-H1
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/021/565/GCF_000021565.1_ASM2156v1/GCF_000021565.1_ASM2156v1_genomic.fna.gz
+
+#### Sulfurihydrogenibium sp. YO3AOP1
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/020/325/GCF_000020325.1_ASM2032v1/GCF_000020325.1_ASM2032v1_genomic.fna.gz
+
+#### Sulfurihydrogenibium yellowstonense SS-5
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/173/615/GCF_000173615.1_ASM17361v1/GCF_000173615.1_ASM17361v1_genomic.fna.gz
+
+#### Thermotoga neapolitana DSM 4359
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/018/945/GCF_000018945.1_ASM1894v1/GCF_000018945.1_ASM1894v1_genomic.fna.gz
+
+#### Thermotoga petrophila RKU-1
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/016/785/GCF_000016785.1_ASM1678v1/GCF_000016785.1_ASM1678v1_genomic.fna.gz
+
+#### Thermotoga sp. RQ2
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/019/625/GCF_000019625.1_ASM1962v1/GCF_000019625.1_ASM1962v1_genomic.fna.gz
+
+#### Deinococcus radiodurans R1
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/638/825/GCF_001638825.1_ASM163882v1/GCF_001638825.1_ASM163882v1_genomic.fna.gz
+
+#### Thermus thermophilus HB8
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/091/545/GCF_000091545.1_ASM9154v1/GCF_000091545.1_ASM9154v1_genomic.fna.gz
+
+#### Dictyoglomus turgidum 
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/021/645/GCF_000021645.1_ASM2164v1/GCF_000021645.1_ASM2164v1_genomic.fna.gz
+
+#### Salinispora arenicola 
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/424/885/GCF_000424885.1_ASM42488v1/GCF_000424885.1_ASM42488v1_genomic.fna.gz
+
+#### Salinispora tropica 
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/016/425/GCF_000016425.1_ASM1642v1/GCF_000016425.1_ASM1642v1_genomic.fna.gz
+
+#### Chloroflexus aurantiacus J-10-fl
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/018/865/GCF_000018865.1_ASM1886v1/GCF_000018865.1_ASM1886v1_genomic.fna.gz
+
+#### Herpetosiphon aurantiacus 
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/018/565/GCF_000018565.1_ASM1856v1/GCF_000018565.1_ASM1856v1_genomic.fna.gz
+
+#### Nostoc sp. PCC 7120
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/009/705/GCF_000009705.1_ASM970v1/GCF_000009705.1_ASM970v1_genomic.fna.gz
+
+#### Bacteroides thetaiotaomicron 
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/011/065/GCF_000011065.1_ASM1106v1/GCF_000011065.1_ASM1106v1_genomic.fna.gz
+
+#### Bacteroides vulgatus 
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/010/505/GCF_000010505.1_ASM1050v1/GCF_000010505.1_ASM1050v1_genomic.fna.gz
+
+#### Chlorobium limicola 
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/020/465/GCF_000020465.1_ASM2046v1/GCF_000020465.1_ASM2046v1_genomic.fna.gz
+
+#### Chlorobium phaeobacteroides 
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/015/125/GCF_000015125.1_ASM1512v1/GCF_000015125.1_ASM1512v1_genomic.fna.gz
+
+
+#### Chlorobium phaeovibrioides 
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/016/085/GCF_000016085.1_ASM1608v1/GCF_000016085.1_ASM1608v1_genomic.fna.gz
+
+#### Chlorobium tepidum 
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/006/985/GCF_000006985.1_ASM698v1/GCF_000006985.1_ASM698v1_genomic.fna.gz
+
+#### Pelodictyon phaeoclathratiforme 
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/020/645/GCF_000020645.1_ASM2064v1/GCF_000020645.1_ASM2064v1_genomic.fna.gz
+
+#### Caldicellulosiruptor bescii
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/022/325/GCF_000022325.1_ASM2232v1/GCF_000022325.1_ASM2232v1_genomic.fna.gz
+
+#### Caldicellulosiruptor saccharolyticus 
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/016/545/GCF_000016545.1_ASM1654v1/_genomic.fna.gz
+
+#### Clostridium thermocellum 
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/015/865/GCF_000015865.1_ASM1586v1/GCF_000015865.1_ASM1586v1_genomic.fna.gz
+
+#### Enterococcus faecalis 
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/407/045/GCF_000407045.1_Ente_faec_V583_V1/GCF_000407045.1_Ente_faec_V583_V1_genomic.fna.gz
+
+#### Thermoanaerobacter pseudethanolicus 
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/019/085/GCF_000019085.1_ASM1908v1/GCF_000019085.1_ASM1908v1_genomic.fna.gz
+
+#### Fusobacterium nucleatum nucleatum 
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/493/815/GCF_000493815.1_FN_W1481/GCF_000493815.1_FN_W1481_genomic.fna.gz
+
+#### Akkermansia muciniphila 
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/020/225/GCF_000020225.1_ASM2022v1/GCF_000020225.1_ASM2022v1_genomic.fna.gz
+
+#### Gemmatimonas aurantiaca 
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/010/305/GCF_000010305.1_ASM1030v1/GCF_000010305.1_ASM1030v1_genomic.fna.gz
+
+#### Rhodopirellula baltica 
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/196/115/GCF_000196115.1_ASM19611v1/GCF_000196115.1_ASM19611v1_genomic.fna.gz
+
+#### Treponema denticola 
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/008/185/GCF_000008185.1_ASM818v1/GCF_000008185.1_ASM818v1_genomic.fna.gz
+
+#### Acidobacterium capsulatum 
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/022/565/GCF_000022565.1_ASM2256v1/GCF_000022565.1_ASM2256v1_genomic.fna.gz
+
+#### Ruegeria pomeroyi 
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/011/965/GCF_000011965.2_ASM1196v2/GCF_000011965.2_ASM1196v2_genomic.fna.gz
+
+#### Sulfitobacter sp. EE-36
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/152/605/GCF_000152605.1_ASM15260v1/GCF_000152605.1_ASM15260v1_genomic.fna.gz
+
+#### Sulfitobacter sp. NAS-14.1
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/152/645/GCF_000152645.1_ASM15264v1/GCF_000152645.1_ASM15264v1_genomic.fna.gz
+
+#### Zymomonas mobilis 
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/563/365/GCF_001563365.1_ASM156336v1/GCF_001563365.1_ASM156336v1_genomic.fna.gz
+
+#### Bordetella bronchiseptica
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/690/235/GCF_000690235.1_gbb69v01/GCF_000690235.1_gbb69v01_genomic.fna.gz
+
+#### Burkholderia xenovorans LB400
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/756/045/GCF_000756045.1_ASM75604v1/GCF_000756045.1_ASM75604v1_genomic.fna.gz
+
+#### Leptothrix cholodnii
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/019/785/GCF_000019785.1_ASM1978v1/GCF_000019785.1_ASM1978v1_genomic.fna.gz
+
+#### Nitrosomonas europaea 
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/009/145/GCF_000009145.1_ASM914v1/GCF_000009145.1_ASM914v1_genomic.fna.gz
+
+#### Shewanella baltica OS185
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/017/325/GCF_000017325.1_ASM1732v1/GCF_000017325.1_ASM1732v_genomic.fna.gz
+
+#### Shewanella baltica OS223
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/021/665/GCF_000021665.1_ASM2166v1/GCF_000021665.1_ASM2166v1_genomic.fna.gz
+
+#### Desulfovibrio piger
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/156/375/GCF_000156375.1_ASM15637v1/GCF_000156375.1_ASM15637v1_genomic.fna.gz
+
+#### Desulfovibrio vulgaris DP4
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/015/485/GCF_000015485.1_ASM1548v1/GCF_000015485.1_ASM1548v1_genomic.fna.gz
+
+#### Geobacter sulfurreducens PCA
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/007/985/GCF_000007985.2_ASM798v2/GCF_000007985.2_ASM798v2.fna.gz
+
+#### Wolinella succinogenes
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/196/135/GCF_000196135.1_ASM19613v1/GCF_000196135.1_ASM19613v1.fna.gz
+
+
+

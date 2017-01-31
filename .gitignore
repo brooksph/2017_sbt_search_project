@@ -1,0 +1,5 @@
+lindgreen_project/data/fasta
+lindgreen_project/data/signatures
+lindgreen_project/.sbt.*
+mircea_project/data/signatures
+mircea_project/data/fasta

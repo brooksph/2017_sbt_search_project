@@ -1,0 +1,13 @@
+
+#!/bin/sh -login
+#PBS -A ged
+#PBS -l nodes=1:ppn=1
+#PBS -l walltime=72:00:00
+#PBS -l mem=100GB
+
+module load GNU/6.2
+module load Python/2.7.2    
+
+#cd ${PBS_O_WORKDIR}
+
+./error_trim_lindgreen.sh 

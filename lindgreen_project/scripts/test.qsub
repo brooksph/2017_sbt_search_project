@@ -1,0 +1,15 @@
+#!/bin/sh -login
+#PBS -A ged
+#PBS -l nodes=1:ppn=1
+#PBS -l walltime=72:00:00
+#PBS -l mem=100GB
+#PBS -M philliptbrooks@gmail.com
+
+cd ${PBS_O_WORKDIR}
+
+source ~/dev/bin/activate
+module load GNU/6.2
+module load Python/2.7.2    
+sourmash sbt_gather -k 21 ~ctb/sigs/microbes.sbt.json SRR606249.pe.qc.fq.gz.abundtrim1000.sig -o mircea-reads-1000_v_microbes.txt
+
+qstat -f $PBS_JOBID
