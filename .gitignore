@@ -7,3 +7,4 @@ mircea_project/data/results/reads_not_found/*fna
 mircea_project/data/results/*json
 mircea_project/data/results/reads_not_found/*gz 
 mircea_project/data/results/reads_not_found/*json 
+mircea_project/data/results/*sbt*
