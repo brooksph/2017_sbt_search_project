@@ -1,0 +1,2 @@
+Composition:
+0.72 NC_000853.1 Thermotoga maritima MSB8 chromosome, complete genome

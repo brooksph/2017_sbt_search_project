@@ -1,0 +1,5 @@
+Composition:
+0.32 NC_006461.1 Thermus thermophilus HB8 chromosome, complete genome
+0.08 NC_003272.1 Nostoc sp. PCC 7120 DNA, complete genome
+0.03 NC_011663.1 Shewanella baltica OS223, complete genome
+0.03 NZ_CP015081.1 Deinococcus radiodurans R1 chromosome 1, complete sequence

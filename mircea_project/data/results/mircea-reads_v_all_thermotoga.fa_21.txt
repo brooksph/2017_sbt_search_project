@@ -1,0 +1,4 @@
+Composition:
+0.99 NC_009486.1 Thermotoga petrophila RKU-1, complete genome
+0.93 NC_011978.1 Thermotoga neapolitana DSM 4359, complete genome
+0.34 lcl|NC_010483.1_cds_WP_012310261.1_1 [gene=dnaA] [locus_tag=TRQ2_RS00005] [protein=chromosomal replication initiator protein DnaA] [protein_id=WP_012310261.1] [location=62..1384]
