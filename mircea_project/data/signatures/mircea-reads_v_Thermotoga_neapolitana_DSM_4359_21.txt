@@ -1,0 +1,2 @@
+Composition:
+1.00 Thermotoga_neapolitana_DSM_4359.gz

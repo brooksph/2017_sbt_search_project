@@ -1,0 +1,2 @@
+Composition:
+0.72 Thermotoga_maritima_MSB8_thermotogales.gz

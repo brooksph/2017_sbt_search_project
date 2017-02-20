@@ -1,0 +1,2 @@
+Composition:
+0.95 Thermotoga_petrophila_RKU-1.gz
