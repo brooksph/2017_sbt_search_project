@@ -1,10 +1,7 @@
-lindgreen_project/data/fasta
-lindgreen_project/.sbt.*
-mircea_project/data/fasta
-mircea_project/data/results/reads_not_found/.sbt.*
-mircea_project/data/results/*sig
-mircea_project/data/results/reads_not_found/*fna
-mircea_project/data/results/*json
-mircea_project/data/results/reads_not_found/*gz 
-mircea_project/data/results/reads_not_found/*json 
-mircea_project/data/results/*sbt*
+*fasta
+*.sbt.*
+*sig
+*fna
+*json
+*gz 
+*sbt*

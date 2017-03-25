@@ -21,4 +21,4 @@ KBSSwiS5withPhiX_FD.fastq.gz.kmertrim
 KBSSwiS6_FD.fastq.gz.kmertrim
 KBSSwiS7_FD.fastq.gz.kmertrim
 KBSSwiwitspikein_2_FD.fastq.gz.kmertrim
-KBSSwiwitspikein_3_FD
+KBSSwiwitspikein_3_FD.fastq.gz.kmertrim
